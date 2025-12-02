@@ -63,11 +63,7 @@ static/uploads/
 backend/static/uploads/
 frontend/static/uploads/
 
-# Models and large binaries
-*.pth
-*.pt
-*.h5
-*.ckpt
+
 
 # Datasets / large folders
 PlantVillage/
