@@ -1,0 +1,103 @@
+# Python general
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Pip and wheel
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage
+.coverage
+.coverage.*
+htmlcov/
+.cache
+nosetests.xml
+coverage.xml
+.pytest_cache/
+
+# Pyre type checker
+.pyre/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+logs/
+*.log
+
+# Static uploads (user uploaded files)
+static/uploads/
+backend/static/uploads/
+frontend/static/uploads/
+
+# Models and large binaries
+*.pth
+*.pt
+*.h5
+*.ckpt
+model/
+plant_diseases_detect/model/
+
+# Datasets / large folders
+PlantVillage/
+PlantVillage/**
+PlantVillage/*
+data/
+datasets/
+
+# Environment files / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Compiled extensions
+*.so
+
+# Node / frontend
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Visual Studio
+.vs/
+
+# Misc
+tags
+
+# Existing project-specific ignores (kept from earlier)
+backend/
+frontend/
