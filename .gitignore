@@ -68,8 +68,6 @@ frontend/static/uploads/
 *.pt
 *.h5
 *.ckpt
-model/
-plant_diseases_detect/model/
 
 # Datasets / large folders
 PlantVillage/
